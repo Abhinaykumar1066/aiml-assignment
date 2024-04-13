@@ -5,3 +5,4 @@
 #Assignment 5:https://github.com/Abhinaykumar1066/aiml-assignment/blob/main/2203A51066_Assign_5.ipynb
 #Assignment 6:https://github.com/Abhinaykumar1066/aiml-assignment/blob/main/2203A51066_Assign_6.ipynb
 #Assignment 7:https://github.com/Abhinaykumar1066/aiml-assignment/blob/main/2203A51066_Assign_7.ipynb
+#Assignment 8:https://github.com/Abhinaykumar1066/aiml-assignment/blob/main/2203A51066_Assig_8.ipynb
